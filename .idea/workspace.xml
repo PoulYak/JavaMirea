@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd4eac55-993a-4677-b89e-ae3dff3dda52" name="Changes" comment="" />
+    <list default="true" id="cd4eac55-993a-4677-b89e-ae3dff3dda52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice9/task1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice9/task4/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice9/task4/MyComparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_09_2023_0_37__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_09_2023_0_37__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +45,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/pavli/Desktop/programming/Samsung/Java Programming/src/Practice5/task4"
+    "last_opened_file_path": "C:/Users/pavli/Desktop/programming/Samsung/Java Programming/src/Practice5/task4",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -51,13 +60,13 @@
       <recent name="C:\Users\pavli\Desktop\programming\Samsung\Java Programming\src\Practice5\task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice5.task2.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice5.task4.App" />
+  <component name="RunManager" selected="Application.Dog">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice9.task4.Dog" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice5.task4.*" />
+          <option name="PATTERN" value="Practice9.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice5.task2.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice5.task2.App" />
+    <configuration name="ProcessString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice7.task5.ProcessString" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice5.task2.*" />
+          <option name="PATTERN" value="Practice7.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProcessString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice7.task5.ProcessString" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice9.task1.Student" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice7.task5.*" />
+          <option name="PATTERN" value="Practice9.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,19 +136,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.task5" />
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.Practice5.task2.App" />
+      <item itemvalue="Application.Dog" />
+      <item itemvalue="Application.Student" />
       <item itemvalue="Application.ProcessString" />
       <item itemvalue="Application.Kelvin" />
       <item itemvalue="Application.MathFunc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.MathFunc" />
         <item itemvalue="Application.Kelvin" />
         <item itemvalue="Application.ProcessString" />
-        <item itemvalue="Application.Practice5.task2.App" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
