@@ -21,7 +21,9 @@ public class Student{
                 j--;
             }
         }
-        System.out.println(Arrays.toString(iDNumber));
+        for (Student s: iDNumber){
+            System.out.println(s);
+        }
     }
 
     private String fullName;

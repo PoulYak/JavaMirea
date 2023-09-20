@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd4eac55-993a-4677-b89e-ae3dff3dda52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice9/task1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice9/task4/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice9/task4/MyComparable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_09_2023_0_37__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_09_2023_0_37__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice9/task2/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice9/task3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice9/task3/TestStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice9/task1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice9/task1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice9/task4/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice9/task4/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2V4RCbmbjXzO2iC2VKChFYztXKK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,10 +53,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/pavli/Desktop/programming/Samsung/Java Programming/src/Practice5/task4",
-    "project.structure.last.edited": "SDKs",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/poulyak/IdeaProjects/JavaMirea",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -60,26 +70,13 @@
       <recent name="C:\Users\pavli\Desktop\programming\Samsung\Java Programming\src\Practice5\task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dog">
+  <component name="RunManager" selected="Application.SortingStudentsByGPA">
     <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice9.task4.Dog" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice9.task4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Kelvin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice6.task11.Kelvin" />
-      <module name="Java Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice6.task11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProcessString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice7.task5.ProcessString" />
+    <configuration name="SortingStudentsByGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice9.task2.SortingStudentsByGPA" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice7.task5.*" />
+          <option name="PATTERN" value="Practice9.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,6 +123,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice9.task3.TestStudent" />
+      <module name="Java Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice9.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="task5" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice1.task5" />
       <module name="Java Programming" />
@@ -136,19 +146,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.task5" />
+      <item itemvalue="Application.SortingStudentsByGPA" />
+      <item itemvalue="Application.TestStudent" />
       <item itemvalue="Application.Dog" />
       <item itemvalue="Application.Student" />
-      <item itemvalue="Application.ProcessString" />
-      <item itemvalue="Application.Kelvin" />
       <item itemvalue="Application.MathFunc" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.SortingStudentsByGPA" />
+        <item itemvalue="Application.TestStudent" />
         <item itemvalue="Application.Student" />
+        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.MathFunc" />
-        <item itemvalue="Application.Kelvin" />
-        <item itemvalue="Application.ProcessString" />
       </list>
     </recent_temporary>
   </component>
@@ -185,5 +195,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -2,7 +2,7 @@ package Practice9.task4;
 
 public class Dog implements MyComparable<Dog> {
     public static void main(String[] args) {
-        Dog dog1 = new Dog(12);
+        Dog dog1 = new Dog(11);
         Dog dog2 = new Dog(12);
         System.out.println(dog1.toCompare(dog2));
     }
