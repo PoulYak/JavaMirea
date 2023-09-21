@@ -2,7 +2,7 @@ package Practice6.task11;
 
 enum Systems{
     KELVIN, CELCII, FARENGATE
-        }
+}
 
 public class Kelvin implements Convertable{
 

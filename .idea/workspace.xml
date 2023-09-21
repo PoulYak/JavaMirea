@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd4eac55-993a-4677-b89e-ae3dff3dda52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice10/task1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice10/task2/SortingStudentsByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice10/task3/CombineArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice8/task11/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice8/task12/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice8/task13/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice11/task1/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice11/task2/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice11/task3/StudentTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice11/task4/task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice6/task11/Kelvin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice6/task11/Kelvin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +69,13 @@
       <recent name="C:\Users\pavli\Desktop\programming\Samsung\Java Programming\src\Practice5\task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice5.task4.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice5.task3.App" />
+  <component name="RunManager" selected="Application.Practice11.task4.task">
+    <configuration name="Developer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice11.task1.Developer" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice5.task3.*" />
+          <option name="PATTERN" value="Practice11.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice5.task4.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice5.task4.App" />
+    <configuration name="Kelvin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice6.task11.Kelvin" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice5.task4.*" />
+          <option name="PATTERN" value="Practice6.task11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice8.task12.task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice8.task12.task" />
+    <configuration name="Practice11.task4.task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice11.task4.task" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice8.task12.*" />
+          <option name="PATTERN" value="Practice11.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice8.task13.task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice8.task13.task" />
+    <configuration name="StudentTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice11.task3.StudentTime" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice8.task13.*" />
+          <option name="PATTERN" value="Practice11.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
       </method>
     </configuration>
     <configuration name="task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice8.task11.task" />
+      <option name="MAIN_CLASS_NAME" value="Practice11.task2.task" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice8.task11.*" />
+          <option name="PATTERN" value="Practice11.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,19 +145,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.task5" />
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.Practice5.task4.App" />
-      <item itemvalue="Application.Practice8.task12.task" />
-      <item itemvalue="Application.Practice8.task13.task" />
+      <item itemvalue="Application.Developer" />
+      <item itemvalue="Application.Kelvin" />
+      <item itemvalue="Application.Practice11.task4.task" />
+      <item itemvalue="Application.StudentTime" />
       <item itemvalue="Application.task" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice5.task4.App" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.Practice8.task13.task" />
-        <item itemvalue="Application.Practice8.task12.task" />
+        <item itemvalue="Application.Practice11.task4.task" />
+        <item itemvalue="Application.StudentTime" />
         <item itemvalue="Application.task" />
+        <item itemvalue="Application.Developer" />
+        <item itemvalue="Application.Kelvin" />
       </list>
     </recent_temporary>
   </component>
