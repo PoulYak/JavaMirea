@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd4eac55-993a-4677-b89e-ae3dff3dda52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice9/task2/SortingStudentsByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice9/task3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice9/task3/TestStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice10/task1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice10/task2/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice10/task3/CombineArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice8/task11/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice8/task12/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice8/task13/task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice9/task1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice9/task1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice9/task4/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice9/task4/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/poulyak/IdeaProjects/JavaMirea",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/poulyak/IdeaProjects/JavaMirea&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Practice5.task2" />
@@ -70,13 +70,13 @@
       <recent name="C:\Users\pavli\Desktop\programming\Samsung\Java Programming\src\Practice5\task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortingStudentsByGPA">
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice9.task4.Dog" />
+  <component name="RunManager" selected="Application.Practice5.task4.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice5.task3.App" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice9.task4.*" />
+          <option name="PATTERN" value="Practice5.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice7.task4.MathFunc" />
+    <configuration name="Practice5.task4.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice5.task4.App" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice7.task4.*" />
+          <option name="PATTERN" value="Practice5.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingStudentsByGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice9.task2.SortingStudentsByGPA" />
+    <configuration name="Practice8.task12.task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice8.task12.task" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice9.task2.*" />
+          <option name="PATTERN" value="Practice8.task12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice9.task1.Student" />
+    <configuration name="Practice8.task13.task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice8.task13.task" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice9.task1.*" />
+          <option name="PATTERN" value="Practice8.task13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice9.task3.TestStudent" />
+    <configuration name="task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice8.task11.task" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice9.task3.*" />
+          <option name="PATTERN" value="Practice8.task11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,19 +146,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.task5" />
-      <item itemvalue="Application.SortingStudentsByGPA" />
-      <item itemvalue="Application.TestStudent" />
-      <item itemvalue="Application.Dog" />
-      <item itemvalue="Application.Student" />
-      <item itemvalue="Application.MathFunc" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.Practice5.task4.App" />
+      <item itemvalue="Application.Practice8.task12.task" />
+      <item itemvalue="Application.Practice8.task13.task" />
+      <item itemvalue="Application.task" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortingStudentsByGPA" />
-        <item itemvalue="Application.TestStudent" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.MathFunc" />
+        <item itemvalue="Application.Practice5.task4.App" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Practice8.task13.task" />
+        <item itemvalue="Application.Practice8.task12.task" />
+        <item itemvalue="Application.task" />
       </list>
     </recent_temporary>
   </component>

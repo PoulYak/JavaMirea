@@ -32,7 +32,7 @@ public class App extends JFrame {
         if (args.length>0)
             app.loadImage(args[0]);
         else
-            app.loadImage("C:\\Users\\pavli\\Desktop\\programming\\Samsung\\Java Programming\\src\\Practice5\\task3\\wallhaven-n6rgrq.png");
+            app.loadImage("/Users/poulyak/IdeaProjects/JavaMirea/src/Practice5/task3/wallhaven-n6rgrq.png");
         app.showImage();
     }
 }
