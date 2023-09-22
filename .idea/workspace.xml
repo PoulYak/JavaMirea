@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd4eac55-993a-4677-b89e-ae3dff3dda52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice11/task1/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice11/task2/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice11/task3/StudentTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice11/task4/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice12/classwork/BorderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice12/classwork/LabExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice12/classwork/NullLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice12/classwork/TestFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice12/task1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/task2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/task2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/task2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/task2/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice6/task11/Kelvin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice6/task11/Kelvin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice5/task2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice5/task2/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,35 +52,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/poulyak/IdeaProjects/JavaMirea&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/poulyak/IdeaProjects/JavaMirea/src/Practice5/task2",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Practice5.task2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Practice5/task2" />
       <recent name="C:\Users\pavli\Desktop\programming\Samsung\Java Programming\src\Practice5\task4" />
       <recent name="C:\Users\pavli\Desktop\programming\Samsung\Java Programming\src\Practice5\task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice11.task4.task">
-    <configuration name="Developer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice11.task1.Developer" />
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice12.task1.App" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice11.task1.*" />
+          <option name="PATTERN" value="Practice12.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kelvin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice6.task11.Kelvin" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice12.task1.App" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice6.task11.*" />
+          <option name="PATTERN" value="Practice12.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice11.task4.task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice11.task4.task" />
+    <configuration name="NullLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice12.classwork.NullLayout" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice11.task4.*" />
+          <option name="PATTERN" value="Practice12.classwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice11.task3.StudentTime" />
+    <configuration name="Practice5.task2.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice5.task2.App" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice11.task3.*" />
+          <option name="PATTERN" value="Practice5.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice11.task2.task" />
+    <configuration name="TestFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice12.classwork.TestFrame" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice11.task2.*" />
+          <option name="PATTERN" value="Practice12.classwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +151,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.task5" />
-      <item itemvalue="Application.Developer" />
-      <item itemvalue="Application.Kelvin" />
-      <item itemvalue="Application.Practice11.task4.task" />
-      <item itemvalue="Application.StudentTime" />
-      <item itemvalue="Application.task" />
+      <item itemvalue="Application.Practice5.task2.App" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.NullLayout" />
+      <item itemvalue="Application.TestFrame" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice11.task4.task" />
-        <item itemvalue="Application.StudentTime" />
-        <item itemvalue="Application.task" />
-        <item itemvalue="Application.Developer" />
-        <item itemvalue="Application.Kelvin" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Practice5.task2.App" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.NullLayout" />
+        <item itemvalue="Application.TestFrame" />
       </list>
     </recent_temporary>
   </component>

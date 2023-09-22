@@ -1,11 +1,8 @@
-package Practice5.task2;
+package Practice12.task1;
 
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.io.File;
 
 public class App extends JFrame {
     int WINDOW_WIDTH = 600;
