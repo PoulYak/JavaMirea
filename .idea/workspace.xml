@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd4eac55-993a-4677-b89e-ae3dff3dda52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice12/classwork/BorderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice12/classwork/LabExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice12/classwork/NullLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice12/classwork/TestFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice12/task1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5/task2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5/task2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5/task2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5/task2/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice5/task2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice5/task2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice12/task1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice12/task1/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/poulyak/IdeaProjects/JavaMirea/src/Practice5/task2",
+    "last_opened_file_path": "/Users/poulyak/IdeaProjects/JavaMirea/src/Practice12/task1",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -70,12 +61,13 @@
       <recent name="Practice5.task2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Practice12/task1" />
       <recent name="$PROJECT_DIR$/src/Practice5/task2" />
       <recent name="C:\Users\pavli\Desktop\programming\Samsung\Java Programming\src\Practice5\task4" />
       <recent name="C:\Users\pavli\Desktop\programming\Samsung\Java Programming\src\Practice5\task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.Practice5.task2.App">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice12.task1.App" />
       <module name="Java Programming" />
@@ -159,8 +151,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
         <item itemvalue="Application.Practice5.task2.App" />
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.NullLayout" />
         <item itemvalue="Application.TestFrame" />

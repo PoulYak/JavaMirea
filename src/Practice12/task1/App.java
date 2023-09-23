@@ -34,24 +34,24 @@ public class App extends JFrame {
     void random_shapes_paint(int shapeNumber, Graphics2D g) {
         for (int i = 0; i < shapeNumber; i++) {
             int choice = (int) (Math.random() * 3);
-            int xCoord = (int) (Math.random() * 200);
-            int yCoord = (int) (Math.random() * 200);
+            int xCoord = (int) (Math.random() * WINDOW_WIDTH);
+            int yCoord = (int) (Math.random() * WINDOW_HEIGHT);
             g.setColor(getRandomColor());
-            int xSize = (int) (Math.random() * (WINDOW_WIDTH-50))+30;
-            int ySize = (int) (Math.random() * (WINDOW_HEIGHT-50))+30;
+            int xSize = (int) ((Math.random() * 200)+20);
+            int ySize = (int) ((Math.random() * 200)+20);
             switch (choice) {
                 case 0:
                     Circle circle = new Circle((double) xSize /2);
-                    g.fillOval((int) circle.getR(), (int) circle.getR(), xCoord, yCoord);
+                    g.fillOval(xCoord, yCoord, (int) circle.getR(), (int) circle.getR());
 
                     break;
                 case 1:
                     Rectangle rectangle = new Rectangle(xSize, ySize);
-                    g.fillRect((int) rectangle.getA(), (int) rectangle.getB(), xCoord, yCoord);
+                    g.fillRect(xCoord, yCoord, (int) rectangle.getA(), (int) rectangle.getB());
                     break;
                 case 2:
                     Square square = new Square(xSize);
-                    g.fillRect((int)square.getA(), (int)square.getA(), xCoord, yCoord);
+                    g.fillRect(xCoord, yCoord, (int)square.getA(), (int)square.getA());
                     break;
 
                 default:
