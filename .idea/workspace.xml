@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd4eac55-993a-4677-b89e-ae3dff3dda52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice13/classwork/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice13/classwork/Filename.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice13/classwork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice13/classwork/StringBuffers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice13/classwork/SystemTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice13/task2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice13/task5/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice13/task6/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice14/classwork/DemoRegular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice14/task3/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice14/task4/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice14/task5/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice14/task6/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice14/task7/task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice12/task1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice12/task1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice5/task4/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice5/task4/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,19 +57,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/poulyak/IdeaProjects/JavaMirea/src/Practice12/task1",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/poulyak/IdeaProjects/JavaMirea/src/Practice12/task1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Practice5.task2" />
@@ -66,14 +80,17 @@
       <recent name="C:\Users\pavli\Desktop\programming\Samsung\Java Programming\src\Practice5\task4" />
       <recent name="C:\Users\pavli\Desktop\programming\Samsung\Java Programming\src\Practice5\task3" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Practice5.task2" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Practice5.task2.App">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice12.task1.App" />
+  <component name="RunManager" selected="Application.Practice14.task5.task">
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice13.task2.Person" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice12.task1.*" />
+          <option name="PATTERN" value="Practice13.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice12.task1.App" />
+    <configuration name="PhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice13.task5.PhoneNumber" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice12.task1.*" />
+          <option name="PATTERN" value="Practice13.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice12.classwork.NullLayout" />
+    <configuration name="Practice14.task4.task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice14.task4.task" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice12.classwork.*" />
+          <option name="PATTERN" value="Practice14.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice5.task2.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice5.task2.App" />
+    <configuration name="Practice14.task5.task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice14.task5.task" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice5.task2.*" />
+          <option name="PATTERN" value="Practice14.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice12.classwork.TestFrame" />
+    <configuration name="task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice13.task6.task" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice12.classwork.*" />
+          <option name="PATTERN" value="Practice13.task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +160,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.task5" />
-      <item itemvalue="Application.Practice5.task2.App" />
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.App (1)" />
-      <item itemvalue="Application.NullLayout" />
-      <item itemvalue="Application.TestFrame" />
+      <item itemvalue="Application.Practice14.task4.task" />
+      <item itemvalue="Application.Practice14.task5.task" />
+      <item itemvalue="Application.Person" />
+      <item itemvalue="Application.PhoneNumber" />
+      <item itemvalue="Application.task" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice5.task2.App" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.NullLayout" />
-        <item itemvalue="Application.TestFrame" />
+        <item itemvalue="Application.Practice14.task5.task" />
+        <item itemvalue="Application.Practice14.task4.task" />
+        <item itemvalue="Application.task" />
+        <item itemvalue="Application.PhoneNumber" />
+        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>

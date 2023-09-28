@@ -27,7 +27,6 @@ public class App extends JFrame {
     private void nextImg(){
         imgLabel.setIcon(new ImageIcon(getClass().getResource("Capture"+(++imgNum)+".PNG")));
         if(imgNum == 4) imgNum = 0;
-
     }
 
     public static void main(String[] args) {
