@@ -10,7 +10,7 @@ public class task {
         String feb_vis = "(0[123456789]|1\\d|2[0123456789])/(02)/(19([13579][26]|[02468][048])|[2-9]\\d([13579][26]|[02468][048]))";
         String feb_novis = "(0[123456789]|1\\d|2[012345678])/(02)/(19([13579][01345789]|[02468][1235679])|[2-9]\\d([13579][01345789]|[02468][1235679]))";
         String regex = String.format("((%1$s)|(%2$s)|(%3$s)|(%4$s))", yan_mar_may_jul_aug_oct_dec, apr_jun_sep_nov, feb_vis, feb_novis);
-        String s = "1/1/1899";
+        String s = "29/02/2004";
         if (Pattern.matches(regex, s))
             System.out.println("соответствует");
         else
