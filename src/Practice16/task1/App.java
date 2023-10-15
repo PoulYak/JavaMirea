@@ -37,31 +37,31 @@ public class App extends JFrame {
     }
 
     private void initGeoPans() {
-        panWEST.setBackground(Color.BLUE);
-        pan.add(panWEST, BorderLayout.WEST);
-        panWEST.addMouseListener(new MouseAdapter() {
-            @Override
-            public void mouseEntered(MouseEvent e) {
-                JOptionPane.showMessageDialog(parent, "Добро пожаловать в ЗАО");
-
-            }
-        });
-        panNORTH.setBackground(Color.PINK);
-        panNORTH.addMouseListener(new MouseAdapter() {
-            @Override
-            public void mouseEntered(MouseEvent e) {
-                JOptionPane.showMessageDialog(parent, "Добро пожаловать в САО");
-            }
-        });
-        pan.add(panNORTH, BorderLayout.NORTH);
-        panEAST.setBackground(Color.BLUE);
-        panEAST.addMouseListener(new MouseAdapter() {
-            @Override
-            public void mouseEntered(MouseEvent e) {
-                JOptionPane.showMessageDialog(parent, "Добро пожаловать в ВАО");
-
-            }
-        });
+//        panWEST.setBackground(Color.BLUE);
+//        pan.add(panWEST, BorderLayout.WEST);
+//        panWEST.addMouseListener(new MouseAdapter() {
+//            @Override
+//            public void mouseEntered(MouseEvent e) {
+//                JOptionPane.showMessageDialog(parent, "Добро пожаловать в ЗАО");
+//
+//            }
+//        });
+//        panNORTH.setBackground(Color.PINK);
+//        panNORTH.addMouseListener(new MouseAdapter() {
+//            @Override
+//            public void mouseEntered(MouseEvent e) {
+//                JOptionPane.showMessageDialog(parent, "Добро пожаловать в САО");
+//            }
+//        });
+//        pan.add(panNORTH, BorderLayout.NORTH);
+//        panEAST.setBackground(Color.BLUE);
+//        panEAST.addMouseListener(new MouseAdapter() {
+//            @Override
+//            public void mouseEntered(MouseEvent e) {
+//                JOptionPane.showMessageDialog(parent, "Добро пожаловать в ВАО");
+//
+//            }
+//        });
 
         pan.add(panEAST, BorderLayout.EAST);
 
@@ -100,13 +100,13 @@ public class App extends JFrame {
 
             }
         });
-        btn.addMouseListener(new MouseAdapter() {
-            @Override
-            public void mouseEntered(MouseEvent e) {
-                JOptionPane.showMessageDialog(parent, "Добро пожаловать в ЮАО");
-
-            }
-        });
+//        btn.addMouseListener(new MouseAdapter() {
+//            @Override
+//            public void mouseEntered(MouseEvent e) {
+//                JOptionPane.showMessageDialog(parent, "Добро пожаловать в ЮАО");
+//
+//            }
+//        });
         pan.add(btn, BorderLayout.SOUTH);
 
 
@@ -117,13 +117,13 @@ public class App extends JFrame {
         ta.setBackground(Color.GREEN);
         ta.setMargin(new Insets(10, 10, 10, 10));
         pan.add(ta, BorderLayout.CENTER);
-        ta.addMouseListener(new MouseAdapter() {
-            @Override
-            public void mouseEntered(MouseEvent e) {
-                JOptionPane.showMessageDialog(parent, "Добро пожаловать в ЦАО");
-
-            }
-        });
+//        ta.addMouseListener(new MouseAdapter() {
+//            @Override
+//            public void mouseEntered(MouseEvent e) {
+//                JOptionPane.showMessageDialog(parent, "Добро пожаловать в ЦАО");
+//
+//            }
+//        });
 
 
     }
