@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd4eac55-993a-4677-b89e-ae3dff3dda52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice21/classwork/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice21/task1/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice21/task2/AnyTypeStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice22/task1/PolishCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,26 +70,13 @@
       <recent name="Practice5.task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice21.task2.AnyTypeStore">
+  <component name="RunManager" selected="Application.PolishCalculator">
     <configuration name="AnyTypeStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice21.task3_4.AnyTypeStore" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice21.task3_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayListWithoutGenericsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice20.classwork.ArrayListWithoutGenericsTest" />
-      <module name="Java Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice20.classwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolishCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice22.task1.PolishCalculator" />
+      <module name="Java Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice22.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Practice21.task2.AnyTypeStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice21.task2.AnyTypeStore" />
       <module name="Java Programming" />
@@ -148,19 +146,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.task5" />
+      <item itemvalue="Application.PolishCalculator" />
       <item itemvalue="Application.AnyTypeStore" />
       <item itemvalue="Application.Practice21.task2.AnyTypeStore" />
-      <item itemvalue="Application.ArrayListWithoutGenericsTest" />
       <item itemvalue="Application.CommonClass" />
       <item itemvalue="Application.GenClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolishCalculator" />
         <item itemvalue="Application.Practice21.task2.AnyTypeStore" />
         <item itemvalue="Application.AnyTypeStore" />
         <item itemvalue="Application.GenClass" />
         <item itemvalue="Application.CommonClass" />
-        <item itemvalue="Application.ArrayListWithoutGenericsTest" />
       </list>
     </recent_temporary>
   </component>
