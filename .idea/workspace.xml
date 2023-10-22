@@ -5,7 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd4eac55-993a-4677-b89e-ae3dff3dda52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice22/task1/PolishCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice23/task1/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice23/task1/ArrayQueueADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice23/task1/ArrayQueueModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice23/task1/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice23/task2/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice23/task2/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice23/task2/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice23/task2/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/AbstractChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/ChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/FunctionalChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/MagicChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/VictorianChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/CreateImageDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/CreateMusicDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/CreateTextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/ICreateDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/IDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/ImageDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/MusicDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/TextDocument.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,7 +56,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -70,33 +94,7 @@
       <recent name="Practice5.task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PolishCalculator">
-    <configuration name="AnyTypeStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice21.task3_4.AnyTypeStore" />
-      <module name="Java Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice21.task3_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CommonClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice20.task1.CommonClass" />
-      <module name="Java Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice20.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TextDocument">
     <configuration name="GenClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice20.task2.GenClass" />
       <module name="Java Programming" />
@@ -123,12 +121,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice21.task2.AnyTypeStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice21.task2.AnyTypeStore" />
+    <configuration name="Practice24.task2.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice24.task2.test" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice21.task2.*" />
+          <option name="PATTERN" value="Practice24.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextDocument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice24.task3.TextDocument" />
+      <module name="Java Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice24.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,21 +155,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice23.task1.test" />
+      <module name="Java Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice23.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.task5" />
-      <item itemvalue="Application.PolishCalculator" />
-      <item itemvalue="Application.AnyTypeStore" />
-      <item itemvalue="Application.Practice21.task2.AnyTypeStore" />
-      <item itemvalue="Application.CommonClass" />
       <item itemvalue="Application.GenClass" />
+      <item itemvalue="Application.PolishCalculator" />
+      <item itemvalue="Application.Practice24.task2.test" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.TextDocument" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextDocument" />
+        <item itemvalue="Application.Practice24.task2.test" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.PolishCalculator" />
-        <item itemvalue="Application.Practice21.task2.AnyTypeStore" />
-        <item itemvalue="Application.AnyTypeStore" />
         <item itemvalue="Application.GenClass" />
-        <item itemvalue="Application.CommonClass" />
       </list>
     </recent_temporary>
   </component>
