@@ -5,30 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd4eac55-993a-4677-b89e-ae3dff3dda52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice23/task1/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice23/task1/ArrayQueueADT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice23/task1/ArrayQueueModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice23/task1/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice23/task2/AbstractQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice23/task2/LinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice23/task2/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice23/task2/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/AbstractChairFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/ChairFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/FunctionalChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/MagicChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/VictorianChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task2/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/CreateImageDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/CreateMusicDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/CreateTextDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/ICreateDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/IDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/ImageDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/MusicDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice24/task3/TextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myBilet/ArrayIntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test22/SearchUniversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test4/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,26 +76,13 @@
       <recent name="Practice5.task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TextDocument">
-    <configuration name="GenClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice20.task2.GenClass" />
+  <component name="RunManager" selected="Application.ArrayIntList">
+    <configuration name="ArrayIntList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myBilet.ArrayIntList" />
       <module name="Java Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice20.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PolishCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice22.task1.PolishCalculator" />
-      <module name="Java Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice22.task1.*" />
+          <option name="PATTERN" value="myBilet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,6 +96,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice24.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test2.Test" />
+      <module name="Java Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,19 +152,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.task5" />
-      <item itemvalue="Application.GenClass" />
-      <item itemvalue="Application.PolishCalculator" />
+      <item itemvalue="Application.ArrayIntList" />
+      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Practice24.task2.test" />
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.TextDocument" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayIntList" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.TextDocument" />
         <item itemvalue="Application.Practice24.task2.test" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.PolishCalculator" />
-        <item itemvalue="Application.GenClass" />
       </list>
     </recent_temporary>
   </component>
